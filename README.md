@@ -1,4 +1,10 @@
 # Decision-Tree
+
+
+TODO:
+    Implement gini index using the method of intropy for the better results and accuracy
+
+
 Implementation of decision tree in python
 dataset used : bank_note dataset with five attributes.
 
